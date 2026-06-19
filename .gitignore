@@ -1,2 +1,9 @@
 bio-site-pages.zip
 assets/background-original.mp4
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
